@@ -1,0 +1,12 @@
+.DB_Store
+/PhoneNumber/credentials.py
+/.idea
+Pipfile
+Pipfile.lock
+result.txt
+db.sqlite3
+/venv
+/vidly
+/WebAutomation
+/WebScraper/scraper.py
+
